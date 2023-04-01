@@ -1,3 +1,4 @@
+![banner](https://github.com/Priyankamore-DA/Priyankamore-DA/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Priyanka More</h1>
 <h3 align="center">I am Data specialist  who is fast learner and passionate about data industry.</h3>
 <img align="right" width="500" height="400" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
